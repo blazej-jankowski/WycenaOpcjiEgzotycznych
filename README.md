@@ -15,4 +15,4 @@ Repozytorium zawiera kompletny skrypt obliczeniowy napisany w języku R na potrz
 ## Instrukcja uruchomienia
 Aby odtworzyć wyniki i wygenerować identyczne tabele oraz wykresy jak w pracy, należy:
 1. Upewnić się, że wszystkie wymagane pakiety są zainstalowane (`install.packages(...)`).
-2. Uruchomić skrypt główny. Dane dla indeksu S&P 500 zostaną automatycznie pobrane i zamrożone na dzień **2026-06-02**, co gwarantuje pełną powtarzalność wyników numerycznych.
+2. Uruchomić skrypt główny. Dane dla indeksu S&P 500 zostaną automatycznie pobrane i zamrożone na dzień **2026-06-03**, co gwarantuje pełną powtarzalność wyników numerycznych.
